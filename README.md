@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Subclasses Project
+## Subclasses Project Structure
 
 *Default Structure for A Basic Project*
 
